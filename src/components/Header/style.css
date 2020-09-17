@@ -1,0 +1,13 @@
+nav{
+    background-color: #15202B;
+}
+
+.btnMenu{
+    background-color: #15AC59;
+    margin-left: 12px;
+    margin-top: 5px;
+}
+
+.nav-item .btnMenu:hover{
+    background-color: #166F47;
+}
